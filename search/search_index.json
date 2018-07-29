@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind\n\n\nTuesday, 31 July, 2--5 PM, Seaoats Room (Hilton)\n\n\nScene-setting Speakers\n\n\n\n\nVanessa Polito\n, \nLockheed-Martin Solar Astrophysics Laboratory\n\n\nSue Lepri\n, \nUniversity of Michigan\n\n\n\n\nOrganizers\n\n\n\n\nStephen Bradshaw\n, \nRice University\n\n\nWill Barnes\n, \nRice University\n\n\nNicki Viall\n, \nGoddard Space Flight Center",
+            "title": "Home"
+        },
+        {
+            "location": "/#signatures-of-time-dependent-heating-in-active-regions-and-the-slow-solar-wind",
+            "text": "",
+            "title": "Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind"
+        },
+        {
+            "location": "/#tuesday-31-july-2-5-pm-seaoats-room-hilton",
+            "text": "",
+            "title": "Tuesday, 31 July, 2--5 PM, Seaoats Room (Hilton)"
+        },
+        {
+            "location": "/#scene-setting-speakers",
+            "text": "Vanessa Polito ,  Lockheed-Martin Solar Astrophysics Laboratory  Sue Lepri ,  University of Michigan",
+            "title": "Scene-setting Speakers"
+        },
+        {
+            "location": "/#organizers",
+            "text": "Stephen Bradshaw ,  Rice University  Will Barnes ,  Rice University  Nicki Viall ,  Goddard Space Flight Center",
+            "title": "Organizers"
+        },
+        {
+            "location": "/abstract/",
+            "text": "Nanoflares, short bursts of energy release, provide a possible mechanism for heating the solar corona, particularly active region (AR) cores, to million-degree temperatures. The term \"nanoflare\" may refer to any \nimpulsive\n release of energy, regardless of the underlying driver, whether that be reconnection, Alfv\u00e9n waves, or some other mechanism. Several recent studies have shown that such bursty, time-dependent heating is consistent with observations of AR cores. However, given the short timescales of these events and the difficulties of deriving observables from remote sensing data (e.g. uncertainties in atomic data, limited spectral coverage of instruments, line-of-sight integration) a conclusive detection of such events has proved difficult.\n\n\nWhile nanoflares have been studied primarily in coronal loops in closed-field ARs, they may also play a role in heating and accelerating the slow solar wind. Several workers have shown that open field regions in or at the edges of ARs are a likely source of the slow solar wind, suggesting that these slow-wind streamers may be recently-opened field previously rooted in ARs and thus contain plasma heated in these ARs. Additionally, showed that AR outflows occur in the vicinity of quasi-separatrix layers, suggesting that reconnection at these sites is a possible driver for the slow solar wind. Furthermore, modeled the plasma response to a rarefaction wave driven by interchange reconnection at the boundary between open and closed field in ARs. Their results were consistent with observations and suggested that such a mechanism could be responsible for driving the slow solar wind from ARs. This gives rise to two primary questions: \n1. What role does the closed field in ARs (i.e. coronal loops) play in the source and acceleration of the slow solar wind?\n and \n2. Do observable signatures of AR heating persist in the slow solar wind plasma?\n\n\nOne of the main goals of this session is to foster discussions between researchers focused on the low, closed-field corona and the solar wind/heliosphere community. In particular, we want to discuss how best to coordinate remote-sensing and \nin-situ\n observations in order to understand connections between closed-field coronal loops and solar wind streamers. Data from instruments like \nWind\n and ACE could hold signatures of heating in AR cores not accessible via remote sensing observations. Similarly, remote sensing observations and modeling of time-dependent heating in AR cores could help in understanding slow solar wind variability.\n\n\nThis session will continue discussions began in the 2016 SHINE sessions \"Outstanding Challenges in Understanding the Heating of the Solar Corona and Solar Wind\" and \"Why is the slow solar wind so variable?\" with an emphasis on attracting speakers and participants outside of the typical solar wind/heliosphere community, e.g. those in the coronal loops community.",
+            "title": "Abstract"
+        },
+        {
+            "location": "/questions/",
+            "text": "Below are the fundamental questions that we will attempt to address in this session,\n\n\n\n\nHow are active region loops topologically connected/related to solar wind streamers?\n\n\nWhat role does reconnection play in transporting plasma from closed coronal loops into the solar wind?\n\n\nWhat are the primary observable signatures of impulsive heating in active regions? in the solar wind? Are these signatures correlated?\n\n\nDo signatures of the heating in ARs persist in the slow solar wind? Are they observable?\n\n\nHow can future instruments (e.g. Parker Solar Probe and Solar Orbiter, especially SPICE) be used to identify such signatures?\n\n\nWhat kinds of models are needed to understand the relationship between closed-field ARs and the slow wind?",
+            "title": "Questions"
+        },
+        {
+            "location": "/notes/",
+            "text": "Notes and minutes from the session",
+            "title": "Notes"
+        },
+        {
+            "location": "/references/",
+            "text": "Below is a far-from-comprehensive list of references that we collected while organizing this session. Please feel free to suggest any additions!\n\n\n\n\n\n\nZurbuchen, T. H. and Hefti, S. and Fisk, L. A. and Gloeckler, G. and Schwadron, N. A. 2000, \nMagnetic Structure of the Slow Solar Wind: Constraints from Composition Data\n, Journal of Geophysical Research, \n105:18327\n, \n(Link)\n\n\n\n\n\n\nSchrijver, Carolus J. and DeRosa, Marc L. 2003, \nPhotospheric and Heliospheric Magnetic Fields\n, Sol Phys, \n212:165-200\n, \n(Link)\n\n\n\n\n\n\nSchwadron, N. A. and McComas, D. J. 2003, \nSolar Wind Scaling Law\n, The Astrophysical Journal, \n599:1395-1403\n, \n(Link)\n\n\n\n\n\n\nLiewer, Paulett C. and Neugebauer, M. and Zurbuchen, Thomas 2004, \nCharacteristics of Active-Region Sources of Solar Wind near Solar Maximum\n, Sol Phys, \n223:209-229\n, \n(Link)\n\n\n\n\n\n\nOfman, L 2004, \nThe Origin of the Slow Solar Wind in Coronal Streamers\n, Advances in Space Research, \n33:681-688\n, \n(Link)\n\n\n\n\n\n\nSchwadron, N. A. and McComas, D. J. and DeForest, C. 2006, \nRelationship between Solar Wind and Coronal Heating: Scaling Laws from Solar X-Rays\n, ApJ, \n642:1173\n, \n(Link)\n\n\n\n\n\n\nSakao, Taro and Kano, Ryouhei and Narukage, Noriyuki and Kotoku, Jun'ichi and Bando, Takamasa and DeLuca, Edward E. and Lundquist, Loraine L. and Tsuneta, Saku and Harra, Louise K. and Katsukawa, Yukio and Kubo, Masahito and Hara, Hirohisa and Matsuzaki, Keiichi and Shimojo, Masumi and Bookbinder, Jay A. and Golub, Leon and Korreck, Kelly E. and Su, Yingna and Shibasaki, Kiyoto and Shimizu, Toshifumi and Nakatani, Ichiro 2007, \nContinuous Plasma Outflows from the Edge of a Solar Active Region as a Possible Source of Solar Wind\n, Science, \n318:1585-1588\n, \n(Link)\n\n\n\n\n\n\nViall, Nicholeen M. and Spence, Harlan E. and Kasper, Justin 2009, \nAre Periodic Solar Wind Number Density Structures Formed in the Solar Corona?\n, Geophys. Res. Lett., \n36:L23102\n, \n(Link)\n\n\n\n\n\n\nBaker, D. and van Driel-Gesztelyi, L. and Mandrini, C. H. and De\u1e3foulin, P. and Murray, M. J. 2009, \nMagnetic Reconnection along Quasi-Separatrix Layers as a Driver of Ubiquitous Active Region Outflows\n, The Astrophysical Journal, \n705:926-935\n, \n(Link)\n\n\n\n\n\n\nBradshaw, S. J. and Aulanier, G. and Del Zanna, G. 2011, \nA Reconnection-Driven Rarefaction Wave Model for Coronal Outflows\n, The Astrophysical Journal, \n743:66\n, \n(Link)\n\n\n\n\n\n\nDel Zanna, G. and Aulanier, G. and Klein, K.-L. and T\u00f6r\u00f6k, T. 2011, \nA Single Picture for Solar Coronal Outflows and Radio Noise Storms\n, Astronomy and Astrophysics, Volume 526, id.A137, 12 pp., \n526:A137\n, \n(Link)\n\n\n\n\n\n\nBrooks, David H. and Warren, Harry P. 2011, \nEstablishing a Connection Between Active Region Outflows and the Solar Wind: Abundance Measurements with EIS/Hinode\n, The Astrophysical Journal Letters, \n727:L13\n, \n(Link)\n\n\n\n\n\n\nWinebarger, Amy R. and Warren, Harry P. and Schmelz, Joan T. and Cirtain, Jonathan and Mulu-Moore, Fana and Golub, Leon and Kobayashi, Ken 2012, \nDefining the \"Blind Spot\" of Hinode EIS and XRT Temperature Measurements\n, The Astrophysical Journal Letters, \n746:L17\n, \n(Link)\n\n\n\n\n\n\nOsman, K. T. and Matthaeus, W. H. and Wan, M. and Rappazzo, A. F. 2012, \nIntermittency and Local Heating in the Solar Wind\n, Phys. Rev. Lett., \n108:261102\n, \n(Link)\n\n\n\n\n\n\nSlemzin, V. and Harra, L. and Urnov, A. and Kuzin, S. and Goryaev, F. and Berghmans, D. 2013, \nSignatures of Slow Solar Wind Streams from Active Regions in the Inner Corona\n, Sol Phys, \n286:157-184\n, \n(Link)\n\n\n\n\n\n\nMandrini, C. H. and Nuevo, F. A. and Va\u015bquez, A. M. and De\u1e3foulin, P. and van Driel-Gesztelyi, L. and Baker, D. and Culhane, J. L. and Cristiani, G. D. and Pick, M. 2014, \nHow Can Active Region Plasma Escape into the Solar Wind from Below a Closed Helmet Streamer?\n, Solar Physics, \n289:4151-4171\n, \n(Link)\n\n\n\n\n\n\nCulhane, J. L. and Brooks, D. H. and van Driel-Gesztelyi, L. and De\u1e3foulin, P. and Baker, D. and DeRosa, M. L. and Mandrini, C. H. and Zhao, L. and Zurbuchen, T. H. 2014, \nTracking Solar Active Region Outflow Plasma from Its Source to the Near-Earth Environment\n, Solar Physics, \n289:3799-3816\n, \n(Link)\n\n\n\n\n\n\nWoolsey, L. N. and Cranmer, S. R. 2015, \nTime-Dependent Turbulent Heating of Open Flux Tubes in the Chromosphere, Corona, and Solar Wind\n, ApJ, \n811:136\n, \n(Link)\n\n\n\n\n\n\nBrooks, David H. and Ugarte-Urra, Ignacio and Warren, Harry P. 2015, \nFull-Sun Observations for Identifying the Source of the Slow Solar Wind\n, Nature Communications, \n6:5947\n, \n(Link)\n\n\n\n\n\n\nCranmer, Steven R. and Asgari-Targhi, Mahboubeh and Miralles, Mari Paz and Raymond, John C. and Strachan, Leonard and Tian, Hui and Woolsey, Lauren N. 2015, \nThe Role of Turbulence in Coronal Heating and Solar Wind Expansion\n, Phil. Trans. R. Soc. A, \n373:20140148\n, \n(Link)\n\n\n\n\n\n\nFazakerley, A. N. and Harra, L. K. and van Driel-Gesztelyi, L. 2016, \nAn Investigation of the Sources of Earth-Directed Solar Wind during Carrington Rotation 2053\n, The Astrophysical Journal, \n823:145\n, \n(Link)\n\n\n\n\n\n\nDudi\u1e31, Jaroslav and Dzif\u010da\u1e31ova,\u0301 Elena and Meyer-Vernet, Nicole and Zanna, Giulio Del and Young, Peter R. and Giunta, Alessandra and Sylwester, Barbara and Sylwester, Janusz and Oka, Mitsuo and Mason, Helen E. and Vocks, Christian and Matteini, Lorenzo and Krucker, S\u00e4m and Williams, David R. and Mackovjak, \u0160imon 2017, \nNonequilibrium Processes in the Solar Corona, Transition Region, Flares, and Solar Wind (Invited Review)\n, Sol Phys, \n292:100\n, \n(Link)\n\n\n\n\n\n\nCranmer, Steven R. and Gibson, Sarah E. and Riley, Pete 2017, \nOrigins of the Ambient Solar Wind: Implications for Space Weather\n, Space Sci Rev, \n212:1345-1384\n, \n(Link)\n\n\n\n\n\n\nHarra, Louise K. and Ugarte-Urra, Ignacio and De Rosa, Marc and Mandrini, Cristina and van Driel-Gesztelyi, Lidia and Baker, Deborah and Culhane, J. Leonard and De\u1e3foulin, Pascal 2017, \nA Study of the Long Term Evolution in Active Region Upflows\n, Publications of the Astronomical Society of Japan, \n69:47\n, \n(Link)\n\n\n\n\n\n\nBemporad, A. 2017, \nExploring the Inner Acceleration Region of Solar Wind: A Study Based on Coronagraphic UV and Visible Light Data\n, The Astrophysical Journal, \n846:86\n, \n(Link)",
+            "title": "Helpful References"
+        },
+        {
+            "location": "/slides/",
+            "text": "Below are links to slides from the invited scene-setting speakers and those who contributed slides during the session.\n\n\nInvited\n\n\n\n\nVanessa Polito\n\n\nSue Lepri\n\n\n\n\nContributed",
+            "title": "Slides"
+        },
+        {
+            "location": "/slides/#invited",
+            "text": "Vanessa Polito  Sue Lepri",
+            "title": "Invited"
+        },
+        {
+            "location": "/slides/#contributed",
+            "text": "",
+            "title": "Contributed"
+        }
+    ]
+}
