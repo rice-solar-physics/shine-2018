@@ -1,12 +1,12 @@
 # Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind
-Tuesday, 31 July, 2--5 PM, Seaoats Room (Hilton)
+Tuesday, 31 July, 2--5 PM, Sea Oats Room (Hilton)
 
 <figure>
-  <img src="../images/brooks_warren_2011.png" alt="my alt text"/>
+  <img src="images/brooks_warren_2011.png" alt="my alt text"/>
   <figcaption>Brooks and Warren (2011)</figcaption>
 </figure>
 <figure>
-  <img src="../images/baker_2009.png" alt="my alt text"/>
+  <img src="images/baker_2009.png" alt="my alt text"/>
   <figcaption>Baker et al. (2009)</figcaption>
 </figure>
 
