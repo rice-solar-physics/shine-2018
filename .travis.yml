@@ -17,11 +17,10 @@ jobs:
   - stage: test
     script: make
   - stage: deploy
-    env: EVENT_TYPE='push cron'
     script:
     - set -e 
     - make
-    - doctr deploy . --built-docs site/
+    - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then doctr deploy . --built-docs site/; fi'
 
 stages:
 - name: install
