@@ -1,0 +1,38 @@
+# Site Info
+site_name: SHINE Meeting 2018
+site_description: Info for session at SHINE 2018 on "Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind"
+site_author: Will Barnes
+site_url: 'https://rice-solar-physics.github.io/shine-2018'
+docs_dir: pages
+
+# Repository
+repo_name: rice-solar-physics/shine-2018
+repo_url: https://github.com/rice-solar-physics/shine-2018
+
+# Navigation
+pages:
+- Home: index.md
+- Abstract: abstract.md
+- Questions: questions.md
+- Notes: notes.md
+- Helpful References: references.md
+- Slides: slides.md 
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange'
+    accent: 'yellow'
+  logo:
+    icon: 'code'
+
+# Extensions
+markdown_extensions:
+  - codehilite
+
+# Social/Contact
+extra:
+  social:
+    - type: 'globe'
+      link: 'http://solar.rice.edu'
+    - type: 'github'
+      link: 'http://github.com/rice-solar-physics'
