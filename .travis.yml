@@ -4,10 +4,26 @@ python:
 
 sudo: false
 
+env:
+  global:
+    # Doctr deploy key for rice-solar-physics/shine-2018
+    - secure: "zpXf1HdmS9quamNK0l0a98U1/gZObhbp91oABS8EgwjAY9k+iKZPQ0zeHrEkuaWF+/tl13XIY1YE8vUGhfLd6+XKe+Eg34i1s5QuAHEiyUeqBP/mLx9NtXwuYFxQgtl5XziJCL3g2Q6C2RYtS0LIzeMxf/qIBj5qlGAR/oSAXcLztf2HnIoYCAVWayyGW4cdXEvnkFmwB64wwd349YE24z4hRcIK4vbECQfVfG6N1ldMoFMvic0FWx25NHRk7cTzs3zEmDj+SWCGgZ7ONrfDrK8/73ITGwLmvkB+xkPChnMeCh4QTUyfFUrp6FX6EVvq9Ogyt42Jc3gkflNXYdeSxHCgOknW/ga8sOWHOWhZYbBDmqFdQySVOkkpsgrHaTYIWwtVhEo8mAh7vszDGrgfONzWHDOr+J7EHm7NSYqutahuBq8LriPbO8b7VMCrhoS8gBO+IXJf1uUjELHprSTQA43M4MhQ+lzEug8gRIj3wW4+fz1LJyiqZomUP6doCGcDYUKBAHcEl6FSea3gKgfxLoLLmtjwK46ACokxSqN9mxl9nZ8q6OAoLH5GH7bsGfOXXc+sQIqLDdsRZcsfsu8JIO5e1hjRkXwhda9dv3C7GlU10sj4qgQCtRqnEiuhm3nFHOA5EzcaDgzLbIBQWICdXY3Hc8CyVrWvUcoPN25cv0E="
+
 install:
 - pip install -r requirements.txt
 
-script:
-- set -e 
-- make
-- doctr deploy . --built-docs site/
+jobs:
+  include:
+  - stage: test
+    script: make
+  - stage: deploy
+    env: EVENT_TYPE='push cron'
+    script:
+    - set -e 
+    - make
+    - doctr deploy . --built-docs site/
+
+stages:
+- name: install
+- name: test
+- name: deploy
