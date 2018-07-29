@@ -23,7 +23,7 @@ theme:
     primary: 'orange'
     accent: 'yellow'
   logo:
-    icon: 'code'
+    icon: 'star_rate'
 
 # Extensions
 markdown_extensions:
