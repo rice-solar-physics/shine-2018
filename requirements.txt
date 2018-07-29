@@ -1,0 +1,5 @@
+mkdocs
+mkdocs-material
+bibtexparser
+jinja2
+doctr
