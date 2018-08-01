@@ -13,7 +13,7 @@ Tuesday, 31 July, 2--5 PM, Sea Oats Room (Hilton)
 
 ## Scene-setting Speakers
 
-* **Vanessa Polito**, *Lockheed-Martin Solar Astrophysics Laboratory*
+* **Vanessa Polito**, *Harvard-Smithsonian Center for Astrophysics*
 * **Sue Lepri**, *University of Michigan*
 
 ## Organizers
