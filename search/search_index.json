@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind\n\n\nTuesday, 31 July, 2--5 PM, Sea Oats Room (Hilton)\n\n\n\n  \n\n  \nBrooks and Warren (2011)\n\n\n\n\n\n\n  \n\n  \nBaker et al. (2009)\n\n\n\n\n\nScene-setting Speakers\n\n\n\n\nVanessa Polito\n, \nLockheed-Martin Solar Astrophysics Laboratory\n\n\nSue Lepri\n, \nUniversity of Michigan\n\n\n\n\nOrganizers\n\n\n\n\nStephen Bradshaw\n, \nRice University\n\n\nWill Barnes\n, \nRice University\n\n\nNicki Viall\n, \nGoddard Space Flight Center",
+            "text": "Signatures of Time-dependent Heating in Active Regions and the Slow Solar Wind\n\n\nTuesday, 31 July, 2--5 PM, Sea Oats Room (Hilton)\n\n\n\n  \n\n  \nBrooks and Warren (2011)\n\n\n\n\n\n\n  \n\n  \nBaker et al. (2009)\n\n\n\n\n\nScene-setting Speakers\n\n\n\n\nVanessa Polito\n, \nHarvard-Smithsonian Center for Astrophysics\n\n\nSue Lepri\n, \nUniversity of Michigan\n\n\n\n\nOrganizers\n\n\n\n\nStephen Bradshaw\n, \nRice University\n\n\nWill Barnes\n, \nRice University\n\n\nNicki Viall\n, \nGoddard Space Flight Center",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#scene-setting-speakers",
-            "text": "Vanessa Polito ,  Lockheed-Martin Solar Astrophysics Laboratory  Sue Lepri ,  University of Michigan",
+            "text": "Vanessa Polito ,  Harvard-Smithsonian Center for Astrophysics  Sue Lepri ,  University of Michigan",
             "title": "Scene-setting Speakers"
         },
         {
@@ -32,8 +32,23 @@
         },
         {
             "location": "/notes/",
-            "text": "Notes and minutes from the session",
+            "text": "Below are some rough notes from the discussion that followed this session at SHINE 2018. For more specific information, see the \nslides\n from both invited and contributed talks.\n\n\nScene-setting Talk 1\n\n\n\n\nlots of structure when you zoom into ARs\n\n\nprimary tools for loop studies---EUV and X-Ray\n\n\nnanoflares---impulsive heating, agnostic to underlying cause\n\n\nshort-lived brightenings in moss, blue shifts signature of nanoflares\n\n\nnanoflares popular, but mechanism highly-debated\n\n\npersistent blue shifts from active regions; occur where intensity (density) is lowest\n\n\noutflows due to interchange reconnection between closed loops and open fieldlines\n\n\nenhenaced low FIP elements in AR outflows\n\n\ntwo-step reconnection process\n\n\nnon-Maxwellian diagnostics\n\n\n\n\nScene-setting Talk 2\n\n\n\n\nsources?\n\n\nopen field\n\n\ndipolar streamers\n\n\npseudostreamers\n\n\ntransients\n\n\n\n\n\n\nHeavy ions\n\n\nion composition determined within 4 to 5 solar radii\n\n\ndetermined by loop properties and release mechansims; no evolution during propagation\n\n\nelemental abundances determined within 1 to 2 solar radii\n\n\nTest particles in the flow, do not control the flow\n\n\n\n\n\n\nFastest wind has lowest charge state\n\n\nSlow wind broader range of Fe to O, but higher charge state\n\n\nOpen magnetic fields linking back down to ARs---how?\n\n\nHigh time resolution measurements may help to disentangle sources of multi-temperature plasma\n\n\nIonization state may be a useful marker for mapping between wind and locations on the Sun\n\n\nHow does photoionization affect this?\n\n\n\n\n\n\nFrom remote sensing enhancements, can we correlate with enhancements in in-situ data?\n\n\nTime-dependence important, but hard to resolve with current instrumentation\n\n\n\n\n\n\n\n\nAdditional Questions\n\n\n\n\nCan we use loop models to simulate these processes?\n\n\nHow can we connect them to wind models?\n\n\nHow to produce wind observables?\n\n\n\n\n\n\nWhat constraints can IRIS/EIS provide? [follow-up from Vanessa's talk]\n\n\nDeviations from Maxwellians? Are there correlated between ARs and wind?\n\n\nBut a lot happens (kinetic-wise) between the Sun and 1 AU... [Lepri and Viall]\n\n\n\n\n\n\nHow consistent are periodicities in the wind?\n\n\nCorrelations between outflows and type III radio bursts? Need statistics... [Bin Chen]",
             "title": "Notes"
+        },
+        {
+            "location": "/notes/#scene-setting-talk-1",
+            "text": "lots of structure when you zoom into ARs  primary tools for loop studies---EUV and X-Ray  nanoflares---impulsive heating, agnostic to underlying cause  short-lived brightenings in moss, blue shifts signature of nanoflares  nanoflares popular, but mechanism highly-debated  persistent blue shifts from active regions; occur where intensity (density) is lowest  outflows due to interchange reconnection between closed loops and open fieldlines  enhenaced low FIP elements in AR outflows  two-step reconnection process  non-Maxwellian diagnostics",
+            "title": "Scene-setting Talk 1"
+        },
+        {
+            "location": "/notes/#scene-setting-talk-2",
+            "text": "sources?  open field  dipolar streamers  pseudostreamers  transients    Heavy ions  ion composition determined within 4 to 5 solar radii  determined by loop properties and release mechansims; no evolution during propagation  elemental abundances determined within 1 to 2 solar radii  Test particles in the flow, do not control the flow    Fastest wind has lowest charge state  Slow wind broader range of Fe to O, but higher charge state  Open magnetic fields linking back down to ARs---how?  High time resolution measurements may help to disentangle sources of multi-temperature plasma  Ionization state may be a useful marker for mapping between wind and locations on the Sun  How does photoionization affect this?    From remote sensing enhancements, can we correlate with enhancements in in-situ data?  Time-dependence important, but hard to resolve with current instrumentation",
+            "title": "Scene-setting Talk 2"
+        },
+        {
+            "location": "/notes/#additional-questions",
+            "text": "Can we use loop models to simulate these processes?  How can we connect them to wind models?  How to produce wind observables?    What constraints can IRIS/EIS provide? [follow-up from Vanessa's talk]  Deviations from Maxwellians? Are there correlated between ARs and wind?  But a lot happens (kinetic-wise) between the Sun and 1 AU... [Lepri and Viall]    How consistent are periodicities in the wind?  Correlations between outflows and type III radio bursts? Need statistics... [Bin Chen]",
+            "title": "Additional Questions"
         },
         {
             "location": "/references/",
@@ -42,7 +57,7 @@
         },
         {
             "location": "/slides/",
-            "text": "Below are links to slides from the invited scene-setting speakers and those who contributed slides during the session.\n\n\nInvited\n\n\n\n\nVanessa Polito\n\n\nSue Lepri\n\n\n\n\nContributed",
+            "text": "Below are links to slides from the invited scene-setting speakers and those who contributed slides during the session. Additionally, you can find our slides summarizing the session discussion \nhere\n.\n\n\nInvited\n\n\n\n\nVanessa Polito\n\n\nSue Lepri\n\n\n\n\nContributed\n\n\n\n\nDavid Stansby\n\n\nYoung Dae Yoon\n\n\nChunming Zhu",
             "title": "Slides"
         },
         {
@@ -52,7 +67,7 @@
         },
         {
             "location": "/slides/#contributed",
-            "text": "",
+            "text": "David Stansby  Young Dae Yoon  Chunming Zhu",
             "title": "Contributed"
         }
     ]
