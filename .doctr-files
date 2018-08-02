@@ -43,8 +43,10 @@
 ./references/index.html
 ./search/search_index.json
 ./sitemap.xml
+./slides/boe.pdf
 ./slides/index.html
 ./slides/lepri.pdf
+./slides/mason.pdf
 ./slides/polito.pdf
 ./slides/stansby.pdf
 ./slides/summary.pdf
