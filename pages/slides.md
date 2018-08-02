@@ -7,6 +7,8 @@ Below are links to slides from the invited scene-setting speakers and those who 
 
 ## Contributed
 
+* [Benjamin Boe](slides/boe.pdf)
+* [Emily Mason](slides/mason.pdf)
 * [David Stansby](slides/stansby.pdf)
 * [Young Dae Yoon](slides/yoon.pdf)
 * [Chunming Zhu](slides/zhu.pdf)
